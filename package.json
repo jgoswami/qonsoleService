@@ -1,0 +1,11 @@
+{
+	"name": "qonsole-service",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.12.3",
+		"jade" : "1.9.2",
+		"mongodb" : "2.0.14",
+		"mongojs" : "0.18.2"
+	}
+}
